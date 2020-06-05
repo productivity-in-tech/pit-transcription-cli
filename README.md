@@ -36,7 +36,7 @@ not the final transcription, but the starting point for all transcriptions.
   The transcriptions are asyncrhonous so you will need to check to see if it is
   complete.
 
-  If the transcription IS NOT complete, the status of of the transcription will
+  If the transcription **IS NOT** complete, the status of of the transcription will
   be returned.
 
-  If the transcription IS complete, the transcription will be returned as text.
+  If the transcription **IS** complete, the transcription will be returned as text.
